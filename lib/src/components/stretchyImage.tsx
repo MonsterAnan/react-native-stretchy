@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { View, Animated, LayoutChangeEvent } from 'react-native';
 import { StretchyProps } from '../types';
-import FastImage from 'react-native-fast-image'
+import FastImage from 'react-native-fast-image2'
 import { stretchyImageStyles as styles } from './styles';
 
 export interface StretchyImageProps

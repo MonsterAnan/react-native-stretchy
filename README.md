@@ -1,5 +1,15 @@
 # react-native-stretchy 🤸‍♀️
 
+react-native-stretchy it's excellent project, but RN Image loading experience is very poor. 
+
+So:
+
+> This`s [react-native-stretchy](https://github.com/hamidhadi/react-native-stretchy) FastImage version.To solve image loading slowly
+
+><Image/> replace to <FastImage/>, you must be install [react-native-fast-image2](https://www.npmjs.com/package/react-native-fast-image2).
+
+
+
 **A ReactNative Scrollable Stretchy Header Component.**
 
 ✅ Fully optimized for lists<br>
